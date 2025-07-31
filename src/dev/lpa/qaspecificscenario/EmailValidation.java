@@ -11,7 +11,7 @@ public class EmailValidation {
             "hello@.com",
             "valid_email123@domain.org"};
     for(String email : emails) {
-        System.out.println(email + " is " +(isValidEmail(email)?" valid" : " not valid"));
+        System.out.println(email + " is " +(isValidEmail(email)?" valid" : " not    valid"));
     }
     }
 
