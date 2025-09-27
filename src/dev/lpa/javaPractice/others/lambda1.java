@@ -1,4 +1,4 @@
-package dev.lpa.javaPractice;
+package dev.lpa.javaPractice.others;
 
 import java.util.ArrayList;
 import java.util.List;

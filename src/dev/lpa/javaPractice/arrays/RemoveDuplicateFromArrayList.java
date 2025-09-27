@@ -1,4 +1,4 @@
-package dev.lpa.javaPractice;
+package dev.lpa.javaPractice.arrays;
 
 import java.util.*;
 

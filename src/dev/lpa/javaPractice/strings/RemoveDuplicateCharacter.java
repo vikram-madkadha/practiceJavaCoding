@@ -1,4 +1,4 @@
-package dev.lpa.javaPractice;
+package dev.lpa.javaPractice.strings;
 
 import java.util.HashSet;
 import java.util.Set;

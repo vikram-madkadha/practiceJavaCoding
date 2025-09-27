@@ -1,4 +1,4 @@
-package dev.lpa.javaPractice;
+package dev.lpa.javaPractice.arrays;
 
 public class MissingNumber {
     public static void main(String[] args) {

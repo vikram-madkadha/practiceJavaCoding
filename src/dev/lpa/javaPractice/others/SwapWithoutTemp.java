@@ -1,4 +1,4 @@
-package dev.lpa.javaPractice;
+package dev.lpa.javaPractice.others;
 
 public class SwapWithoutTemp {
     int a, b;

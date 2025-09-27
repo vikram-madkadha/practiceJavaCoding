@@ -1,4 +1,4 @@
-package dev.lpa.javaPractice;
+package dev.lpa.javaPractice.arrays;
 
 public class BubbleSort {
     public static void main(String[] args) {

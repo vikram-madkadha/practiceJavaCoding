@@ -1,4 +1,4 @@
-package dev.lpa.javaPractice;
+package dev.lpa.javaPractice.strings;
 
 public class Palindrome {
     public static void main(String[] args) {

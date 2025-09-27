@@ -1,4 +1,4 @@
-package dev.lpa.javaPractice;
+package dev.lpa.javaPractice.matrix;
 
 public class ElementSum2DArray {
     public static void main(String[] args) {
